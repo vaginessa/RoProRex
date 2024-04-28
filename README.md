@@ -13,7 +13,7 @@ This allows you to have pro tier for free
 ### Installing
 
 *this should get around Chrome/Brave's "corrupted" message*
-- Download [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin) in the Chrome Store
+
 - Download the [RoPro](RoPro.zip)
 - Open the extension we downloaded
 - Extract the downloaded extension to your desktop (doesnt have to be your desktop)
